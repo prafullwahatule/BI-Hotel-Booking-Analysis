@@ -1,3 +1,44 @@
+# 🏨 Hotel Booking Analysis – Power BI Project  
+  
+
+## 📌 Project Overview
+
+The Hotel Booking Analysis project aims to uncover key business insights hidden within hotel booking data. Using Power BI, the project analyzes guest behavior, booking patterns, room and meal performance, cancellation trends, and revenue metrics.
+
+The dashboard is built after performing data cleaning, transformation, modeling, DAX calculations, and KPI creation.
+It consists of 4 interactive pages covering:
+
+Overview & Key Metrics
+
+Guest & Booking Analysis
+
+Room, Meal & Channel Performance
+
+Cancellation & Revenue Insights
+
+This project helps hotel management improve operations, reduce cancellations, enhance guest experience, and boost revenue through data-driven decisions.
+
+##❗ Problem Statement
+
+Hotels receive large volumes of bookings every day through various channels. However, they face major challenges:
+
+High cancellation and no-show rates
+
+Lack of clarity on booking trends and guest demographics
+
+Difficulty identifying profitable room types, meal plans, and booking channels
+
+Limited understanding of revenue lost due to cancellations
+
+No clear insights into guest loyalty and repeat customer behavior
+
+Inability to forecast demand due to scattered lead time patterns
+
+Uncertainty about which distribution channels are reliable or risky
+
+Due to these challenges, hotel businesses struggle to optimize operations, reduce revenue leakage, and make strategic decisions.
+
+
 ## 🛠️ Tools Used
 
 - **Microsoft Power BI Desktop** – for building reports and interactive dashboards  
