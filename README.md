@@ -208,21 +208,6 @@ columns**
 
 ------------------------------------------------------------------------
 
-# 📁 Project Structure
-
-    Hotel Booking Analysis/
-    │── README.md
-    │── dataset/
-    │   └── hotel_bookings_cleaned.csv
-    │── PowerBI/
-    │   └── Hotel_Booking_Dashboard.pbix
-    └── assets/
-        ├── screenshots/
-        ├── DAX_measures.txt
-        └── data_model_diagram.png
-
-------------------------------------------------------------------------
-
 # 🏁 Conclusion
 
 This project converts raw hotel booking data into **actionable
@@ -254,11 +239,11 @@ analytics.
 
 ------------------------------------------------------------------------
 
-# 📎 Author
+## 📎 Author  
 
-**Name:** Prafull Wahatule\
-**Email:** prafullwahatule@gmail.com\
-**GitHub:** https://github.com/prafullwahatule
+**👤 Name:** Prafull Wahatule  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
 
 ------------------------------------------------------------------------
 
