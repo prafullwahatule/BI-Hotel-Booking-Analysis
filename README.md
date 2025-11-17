@@ -173,24 +173,28 @@ columns**
 -   KPIs: Total Bookings, Guests, Revenue, ADR\
 -   Visuals: Monthly Trend, ADR vs Lead Time, Hotel Type Share,
     Reservation Status
+<img width="1366" height="769" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a879b585-3f8a-4d27-9c11-9e0a4d12f0c4" />
 
 ## 📌 Page 2 --- Guest & Booking Analysis
 
 -   KPIs: Total Guests, Repeat %, Avg Lead Time, Avg Guests\
 -   Visuals: Guest Type, Repeat vs New, Lead Time, Customer Type Cancel
     %, Country Map
+<img width="1368" height="772" alt="Screenshot 2" src="https://github.com/user-attachments/assets/2e860426-21a4-44f0-b754-77f4e5ba4af7" />
 
 ## 📌 Page 3 --- Room, Meal & Channel Performance
 
 -   KPIs: Meal Popularity %, Channel Revenue %, Room Revenue\
 -   Visuals: Meal Plan, Cancellation % by Channel, Market Segment ADR,
     Room Revenue, Channel Trends
+<img width="1366" height="771" alt="Screenshot 3" src="https://github.com/user-attachments/assets/6fed37f6-2275-4b90-8276-fca2f928ebdb" />
 
 ## 📌 Page 4 --- Cancellation & Revenue Insights
 
 -   KPIs: No-Show %, Revenue Lost, Revenue Retention\
 -   Visuals: Monthly Cancellation Trend, Deposit Type vs Cancellation,
     Monthly Revenue Lost, Channel Cancel %
+<img width="1367" height="771" alt="Screenshot 4" src="https://github.com/user-attachments/assets/de3ce0d9-2584-4bb8-a9ed-4e3c339cc2c1" />
 
 ------------------------------------------------------------------------
 
