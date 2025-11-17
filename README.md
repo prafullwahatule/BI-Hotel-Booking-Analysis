@@ -1,43 +1,52 @@
 # 🏨 Hotel Booking Analysis – Power BI Project  
-  
 
 ## 📌 Project Overview
 
-The Hotel Booking Analysis project aims to uncover key business insights hidden within hotel booking data. Using Power BI, the project analyzes guest behavior, booking patterns, room and meal performance, cancellation trends, and revenue metrics.
+This project is a Power BI-based interactive analytics solution designed to uncover insights from hotel booking data.
+The dashboard provides deep visibility into guest behavior 👥, booking trends 📅, room & meal performance 🛏️🍽️, distribution channels 🌐, cancellations ❌, and revenue insights 💰.
+It enables hotel managers to make data-driven decisions, optimize operations, and reduce revenue loss.
 
-The dashboard is built after performing data cleaning, transformation, modeling, DAX calculations, and KPI creation.
-It consists of 4 interactive pages covering:
-
-Overview & Key Metrics
-
-Guest & Booking Analysis
-
-Room, Meal & Channel Performance
-
-Cancellation & Revenue Insights
-
-This project helps hotel management improve operations, reduce cancellations, enhance guest experience, and boost revenue through data-driven decisions.
+The project includes data cleaning, transformation, modeling, DAX measures, KPIs, and four fully interactive dashboard pages.
 
 ##❗ Problem Statement
 
-Hotels receive large volumes of bookings every day through various channels. However, they face major challenges:
+### Hotels receive thousands of bookings through multiple channels but struggle with:
 
-High cancellation and no-show rates
+- High cancellation and no-show rates affect revenue
 
-Lack of clarity on booking trends and guest demographics
+- Lack of visibility into guest demographics and booking patterns
 
-Difficulty identifying profitable room types, meal plans, and booking channels
+- Difficulty identifying top-performing room types, meal plans & channels
 
-Limited understanding of revenue lost due to cancellations
+- No clear measurement of revenue lost due to cancellations
 
-No clear insights into guest loyalty and repeat customer behavior
+- Limited insight into repeat guest behavior & loyalty
 
-Inability to forecast demand due to scattered lead time patterns
+- Hard to forecast demand due to scattered lead time and seasonal trends
 
-Uncertainty about which distribution channels are reliable or risky
+- Uncertainty about which booking channels are profitable or risky
 
-Due to these challenges, hotel businesses struggle to optimize operations, reduce revenue leakage, and make strategic decisions.
+- Due to these issues, hotels face challenges in making strategic decisions, optimizing operations, and increasing profitability.
 
+## 🎯 Project Objectives
+
+- Centralize Booking Data 🗂️: Create a unified, analytics-ready dataset for hotel booking performance.
+
+- Understand Guest Behavior 👥: Analyze customer types, repeat vs new guests, and booking preferences.
+
+- Track Key Hotel Metrics 📊: Monitor total bookings, total guests, revenue, ADR, and room utilization.
+
+- Analyze Room & Meal Performance 🛏️🍽️: Identify preferred room types, popular meal plans, and upgrade patterns.
+
+- Evaluate Channel Performance 🌐: Compare distribution channels based on revenue, cancellations, and booking volume.
+
+- Understand Cancellations ❌: Identify cancellation patterns by month, customer type, deposit type, and channel.
+
+- Measure Revenue Loss & Retention 💰: Calculate revenue leakage due to cancellations and overall retention rate.
+
+- Support Decision-Making 🧠: Provide hotels with interactive dashboards to drill down insights for strategic planning.
+
+---
 
 ## 🛠️ Tools Used
 
