@@ -1,17 +1,24 @@
-# 🏨 Booking Analysis Power BI Dashboard
-
-This project provides insights into hotel booking data — including occupancy trends, cancellations, revenue analysis, and customer behavior pattern.
-
-## 🔹 Key Features
-- Room Type & Meal Plan Analysis  
-- Booking Source & Cancellation Rate Visualization  
-- ADR (Average Daily Rate) and Revenue Insights  
-- Channel & Agent Performance Tracking  
-
 ## 🛠️ Tools Used
-- Power BI  
-- Excel  
-- DAX  
 
-## 📊 Goal
-To help hotel management understand booking trends and optimize operations for higher profitability.
+- **Microsoft Power BI Desktop** – for building reports and interactive dashboards  
+- **Power Query Editor** – for data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** – for calculating KPIs, percentages, trends  
+- **Excel / CSV Dataset** – source of Amazon sales data
+
+---
+## 🙏 Acknowledgement  
+
+Special thanks to the **Hotel Booking Dataset (Open Data)** for providing an excellent real-world dataset.  
+This project was created as part of a **Data Analytics learning journey** using **Power BI**.  
+
+---
+
+## 📎 Author  
+
+**👤 Name:** Prafull Wahatule  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
+
+---
+
+⭐ *If you found this project helpful, don’t forget to star the repository!* ⭐
