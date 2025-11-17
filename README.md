@@ -6,9 +6,9 @@ This project is a Power BI-based interactive analytics solution designed to unco
 The dashboard provides deep visibility into guest behavior 👥, booking trends 📅, room & meal performance 🛏️🍽️, distribution channels 🌐, cancellations ❌, and revenue insights 💰.
 It enables hotel managers to make data-driven decisions, optimize operations, and reduce revenue loss.
 
-The project includes data cleaning, transformation, modeling, DAX measures, KPIs, and four fully interactive dashboard pages.
+The project includes data cleaning, transformation, modeling, DAX measures, KPIs, and four fully interactive dashboard pages.  
 
-##❗ Problem Statement
+## ❗ Problem Statement
 
 ### Hotels receive thousands of bookings through multiple channels but struggle with:
 
